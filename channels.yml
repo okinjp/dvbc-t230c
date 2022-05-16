@@ -1,0 +1,394 @@
+- name: CATV 1
+  type: SKY
+  channel: '1'
+  isDisabled: false
+- name: CATV 2
+  type: SKY
+  channel: '2'
+  isDisabled: false
+- name: CATV 3
+  type: SKY
+  channel: '3'
+  isDisabled: false
+- name: CATV 4
+  type: SKY
+  channel: '4'
+  isDisabled: false
+- name: CATV 5
+  type: SKY
+  channel: '5'
+  isDisabled: false
+- name: CATV 6
+  type: SKY
+  channel: '6'
+  isDisabled: false
+- name: CATV 7
+  type: SKY
+  channel: '7'
+  isDisabled: false
+- name: CATV 8
+  type: SKY
+  channel: '8'
+  isDisabled: false
+- name: CATV 9
+  type: SKY
+  channel: '9'
+  isDisabled: false
+- name: CATV 10
+  type: SKY
+  channel: '10'
+  isDisabled: false
+- name: CATV 11
+  type: SKY
+  channel: '11'
+  isDisabled: false
+- name: CATV 12
+  type: SKY
+  channel: '12'
+  isDisabled: false
+- name: CATV 13
+  type: SKY
+  channel: '13'
+  isDisabled: false
+- name: CATV 14
+  type: SKY
+  channel: '14'
+  isDisabled: false
+- name: CATV 15
+  type: SKY
+  channel: '15'
+- name: CATV 16
+  type: SKY
+  channel: '16'
+- name: CATV 17
+  type: SKY
+  channel: '17'
+- name: CATV 18
+  type: SKY
+  channel: '18'
+  isDisabled: false
+- name: CATV 19
+  type: SKY
+  channel: '19'
+- name: CATV 20
+  type: SKY
+  channel: '20'
+  isDisabled: false
+- name: CATV 21
+  type: SKY
+  channel: '21'
+  isDisabled: false
+- name: CATV 22
+  type: SKY
+  channel: '22'
+  isDisabled: false
+- name: CATV 23
+  type: SKY
+  channel: '23'
+  isDisabled: false
+- name: CATV 24
+  type: SKY
+  channel: '24'
+  isDisabled: false
+- name: CATV 25
+  type: SKY
+  channel: '25'
+  isDisabled: false
+- name: CATV 26
+  type: SKY
+  channel: '26'
+  isDisabled: false
+- name: CATV 27
+  type: SKY
+  channel: '27'
+  isDisabled: false
+- name: CATV 28
+  type: SKY
+  channel: '28'
+- name: CATV 29
+  type: SKY
+  channel: '29'
+- name: CATV 30
+  type: SKY
+  channel: '30'
+- name: CATV 31
+  type: SKY
+  channel: '31'
+- name: CATV 32
+  type: SKY
+  channel: '32'
+  isDisabled: false
+- name: CATV 33
+  type: SKY
+  channel: '33'
+- name: CATV 34
+  type: SKY
+  channel: '34'
+  isDisabled: false
+- name: CATV 35
+  type: SKY
+  channel: '35'
+- name: CATV 36
+  type: SKY
+  channel: '36'
+- name: CATV 37
+  type: SKY
+  channel: '37'
+- name: CATV 38
+  type: SKY
+  channel: '38'
+- name: CATV 39
+  type: SKY
+  channel: '39'
+- name: CATV 40
+  type: SKY
+  channel: '40'
+- name: CATV 41
+  type: SKY
+  channel: '41'
+- name: CATV 42
+  type: SKY
+  channel: '42'
+- name: CATV 43
+  type: SKY
+  channel: '43'
+- name: CATV 44
+  type: SKY
+  channel: '44'
+- name: CATV 45
+  type: SKY
+  channel: '45'
+- name: CATV 46
+  type: SKY
+  channel: '46'
+- name: CATV 47
+  type: SKY
+  channel: '47'
+- name: CATV 48
+  type: SKY
+  channel: '48'
+  isDisabled: false
+- name: CATV 49
+  type: SKY
+  channel: '49'
+- name: CATV 50
+  type: SKY
+  channel: '50'
+- name: CATV 51
+  type: SKY
+  channel: '51'
+- name: CATV 52
+  type: SKY
+  channel: '52'
+- name: CATV 53
+  type: SKY
+  channel: '53'
+- name: CATV 54
+  type: SKY
+  channel: '54'
+- name: CATV 55
+  type: SKY
+  channel: '55'
+- name: CATV 56
+  type: SKY
+  channel: '56'
+- name: CATV 57
+  type: SKY
+  channel: '57'
+- name: CATV 58
+  type: SKY
+  channel: '58'
+- name: CATV 59
+  type: SKY
+  channel: '59'
+  isDisabled: false
+- name: CATV 60
+  type: SKY
+  channel: '60'
+- name: CATV 61
+  type: SKY
+  channel: '61'
+- name: CATV 62
+  type: SKY
+  channel: '62'
+- name: CATV C13
+  type: SKY
+  channel: C13
+- name: CATV C14
+  type: SKY
+  channel: C14
+- name: CATV C15
+  type: SKY
+  channel: C15
+  isDisabled: false
+- name: CATV C16
+  type: SKY
+  channel: C16
+- name: CATV C17
+  type: SKY
+  channel: C17
+- name: CATV C18
+  type: SKY
+  channel: C18
+- name: CATV C19
+  type: SKY
+  channel: C19
+  isDisabled: false
+- name: CATV C20
+  type: SKY
+  channel: C20
+- name: CATV C21
+  type: SKY
+  channel: C21
+  isDisabled: false
+- name: CATV C22
+  type: SKY
+  channel: C22
+  isDisabled: false
+- name: CATV C23
+  type: SKY
+  channel: C23
+  isDisabled: false
+- name: CATV C24
+  type: SKY
+  channel: C24
+  isDisabled: false
+- name: CATV C25
+  type: SKY
+  channel: C25
+  isDisabled: false
+- name: CATV C26
+  type: SKY
+  channel: C26
+  isDisabled: false
+- name: CATV C27
+  type: SKY
+  channel: C27
+  isDisabled: false
+- name: CATV C28
+  type: SKY
+  channel: C28
+  isDisabled: false
+- name: CATV C29
+  type: SKY
+  channel: C29
+  isDisabled: false
+- name: CATV C30
+  type: SKY
+  channel: C30
+  isDisabled: false
+- name: CATV C31
+  type: SKY
+  channel: C31
+  isDisabled: false
+- name: CATV C32
+  type: SKY
+  channel: C32
+  isDisabled: false
+- name: CATV C33
+  type: SKY
+  channel: C33
+  isDisabled: false
+- name: CATV C34
+  type: SKY
+  channel: C34
+  isDisabled: false
+- name: CATV C35
+  type: SKY
+  channel: C35
+  isDisabled: false
+- name: CATV C36
+  type: SKY
+  channel: C36
+  isDisabled: false
+- name: CATV C37
+  type: SKY
+  channel: C37
+  isDisabled: false
+- name: CATV C38
+  type: SKY
+  channel: C38
+  isDisabled: false
+- name: CATV C39
+  type: SKY
+  channel: C39
+  isDisabled: false
+- name: CATV C40
+  type: SKY
+  channel: C40
+  isDisabled: false
+- name: CATV C41
+  type: SKY
+  channel: C41
+  isDisabled: false
+- name: CATV C42
+  type: SKY
+  channel: C42
+  isDisabled: false
+- name: CATV C43
+  type: SKY
+  channel: C43
+- name: CATV C44
+  type: SKY
+  channel: C44
+- name: CATV C45
+  type: SKY
+  channel: C45
+- name: CATV C46
+  type: SKY
+  channel: C46
+- name: CATV C47
+  type: SKY
+  channel: C47
+- name: CATV C48
+  type: SKY
+  channel: C48
+- name: CATV C49
+  type: SKY
+  channel: C49
+- name: CATV C50
+  type: SKY
+  channel: C50
+- name: CATV C51
+  type: SKY
+  channel: C51
+  isDisabled: false
+- name: CATV C52
+  type: SKY
+  channel: C52
+  isDisabled: false
+- name: CATV C53
+  type: SKY
+  channel: C53
+- name: CATV C54
+  type: SKY
+  channel: C54
+- name: CATV C55
+  type: SKY
+  channel: C55
+- name: CATV C56
+  type: SKY
+  channel: C56
+- name: CATV C57
+  type: SKY
+  channel: C57
+- name: CATV C58
+  type: SKY
+  channel: C58
+- name: CATV C59
+  type: SKY
+  channel: C59
+- name: CATV C60
+  type: SKY
+  channel: C60
+- name: CATV C61
+  type: SKY
+  channel: C61
+  isDisabled: false
+- name: CATV C62
+  type: SKY
+  channel: C62
+  isDisabled: false
+- name: CATV C63
+  type: SKY
+  channel: C63

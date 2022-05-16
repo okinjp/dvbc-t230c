@@ -1,0 +1,16 @@
+- name: T230C-0
+  types:
+    - SKY
+  command: >-
+    dvbv5-zap -C JP -a 0 -c /usr/local/etc/dvbconf/dvbv5_channels_t230_dvbc.conf
+    -r -P <channel>
+  decoder: arib-b25-stream-test
+  dvbDevicePath: /dev/dvb/adapter0/dvr0
+- name: T230C-1
+  types:
+    - SKY
+  command: >-
+    dvbv5-zap -C JP -a 1 -c /usr/local/etc/dvbconf/dvbv5_channels_t230_dvbc.conf
+    -r -P <channel>
+  decoder: arib-b25-stream-test
+  dvbDevicePath: /dev/dvb/adapter1/dvr0
